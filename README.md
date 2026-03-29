@@ -25,7 +25,7 @@ As a **Student Digital Ambassador**, this portfolio demonstrates digital literac
 DigitalLiteracy_Project/
 ├── README.md                          ← You are here
 ├── report/
-│   └── Project_Report.pdf             ← Full project report
+│   └── Project_Report_Digital_Literacy.pdf             ← Full project report
 ├── task-1-presentation/
 │   └── Digital Poster.png  ← Exported infographic
 ├── task-2-portfolio/
