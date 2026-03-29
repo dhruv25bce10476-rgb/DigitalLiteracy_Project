@@ -29,9 +29,13 @@ DigitalLiteracy_Project/
 ├── task-1-presentation/
 │   └── Digital Poster.png  ← Exported infographic
 ├── task-2-portfolio/
-│   └── screenshots/                   ← Profile screenshots
+│   └── GITHUB.png
+│   └── Linkedin.png
+│   └── Stackoverflow.png                   ← Profile screenshots
 ├── task-3-platforms/
-│   └── screenshots/                   ← Platform screenshots
+│   └──HackerRank.png
+│   └──GoogleFormQuiz.png                   ← Platform screenshots
+│   └──Responses_googleform.png   
 ├── task-4-email-etiquette/
 │   ├── email-etiquette.pdf              ← Two professional emails
 │   └── social-media-checklist.md      ← Social media Do's & Don'ts
