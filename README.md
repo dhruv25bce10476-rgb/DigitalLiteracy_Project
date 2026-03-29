@@ -22,25 +22,21 @@ As a **Student Digital Ambassador**, this portfolio demonstrates digital literac
 ## Repository Structure
 
 ```
-digital-literacy-project/
+DigitalLiteracy_Project/
 ├── README.md                          ← You are here
 ├── report/
 │   └── Project_Report.pdf             ← Full project report
 ├── task-1-presentation/
-│   ├── infographic-description.md     ← Write-up on the infographic
-│   └── digital-literacy-infographic.png  ← Exported infographic
+│   └── Digital Poster.png  ← Exported infographic
 ├── task-2-portfolio/
-│   ├── reflection-notes.md            ← Platform reflection
 │   └── screenshots/                   ← Profile screenshots
 ├── task-3-platforms/
-│   ├── coding-challenge-notes.md      ← Coding platform notes
-│   ├── google-form-notes.md           ← Quiz design notes
 │   └── screenshots/                   ← Platform screenshots
 ├── task-4-email-etiquette/
-│   ├── email-drafts.md                ← Two professional emails
+│   ├── email-etiquette.pdf              ← Two professional emails
 │   └── social-media-checklist.md      ← Social media Do's & Don'ts
 └── task-5-cybercrime/
-    ├── casestudy.md                   ← UPI Fraud case study
+    ├── casestudy.pdf                   ← UPI Fraud case study
     └── prevention-checklist.md        ← Stay Safe Online checklist
 ```
 
